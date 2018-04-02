@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace"> 
+		<xpath>Defs/ThingDef/race[wildness>0]/wildness</xpath>
+		<value>
+			<wildness>0.49</wildness>
+		</value>
+	</Operation>
+</Patch>
